@@ -1,0 +1,226 @@
+{
+    "NobetciEczaneler": {
+      "eczane": [
+        {
+          "adi": "DENİZLİ ECZANESİ",
+          "adresi": "DEVLET HASTANESİ ACİL GİRİŞ KAPISI KARŞISI MERKEZ-Merkezefendi",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "2635195",
+          "ecz_id": "68",
+          "enlem": "37.7796617",
+          "boylam": "29.0799983"
+        },
+        {
+          "adi": "TÜFEKÇİOĞLU ECZANESİ",
+          "adresi": "ŞEMİKLER MAH. CİNKAYA BULVARI NO:24 MERKEZ-Merkezefendi",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "3714245",
+          "ecz_id": "227",
+          "enlem": "37.807847",
+          "boylam": "29.0573207"
+        },
+        {
+          "adi": "HACETTEPE ECZANESİ",
+          "adresi": "BAHÇELİEVLER MAH. 3014 SOK. NO:43/B ÖZEL SAĞLIK HAST. KARŞ. MERKEZ-Merkezefendi",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "3777767",
+          "ecz_id": "458",
+          "enlem": "37.7744312",
+          "boylam": "29.0433866"
+        },
+        {
+          "adi": "DAĞDEVİREN ECZANESİ",
+          "adresi": "DOKTORLAR CAD. DÖRT YOLU AKBANK ÜSTÜ NO:16/A MERKEZ-Merkezefendi",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "2614564",
+          "ecz_id": "464",
+          "enlem": "37.78245",
+          "boylam": "29.08338"
+        },
+        {
+          "adi": "BAYRAKTAR ECZANESİ",
+          "adresi": "SERVERGAZİ MAH. FATİH S.M. BULV. NO:20/A ASKERİ GEÇİŞ TERAS PARKA GİDERKEN SAĞDA MERKEZ-Merkezefendi",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "3732019",
+          "ecz_id": "470",
+          "enlem": "37.7549934387207",
+          "boylam": "29.05055046081543"
+        },
+        {
+          "adi": "AYDIN ECZANESİ",
+          "adresi": "KIBRIS ŞEHİTLER CAD.İSTİKLAL MAH. 1196 SOK.KIBRIS ŞEHİTLER DİŞ HAST. KARŞ. MERKEZ-Pamukkale",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "2132454",
+          "ecz_id": "19",
+          "enlem": "37.76302",
+          "boylam": "29.08963"
+        },
+        {
+          "adi": "ELİF ECZANESİ",
+          "adresi": "TOPRAKLIK MAH. HALK CAD. 635/1 SOK. NO:10 18 NOLU SAĞLIK OCAĞI YANI MERKEZ-Pamukkale",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "2635196",
+          "ecz_id": "79",
+          "enlem": "37.780693",
+          "boylam": "29.094198"
+        },
+        {
+          "adi": "YÜCEL ECZANESİ",
+          "adresi": "CUMHURİYET MAH. 3500 SOK. LUNAPARK YANINDAKİ GÜN PETROL (TOTAL) ARKASI CUMHURİYET SAĞLIK OCAĞI KARŞISI MERKEZ-Pamukkale",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "2116644",
+          "ecz_id": "444",
+          "enlem": "37.7581072",
+          "boylam": "29.1080335"
+        },
+        {
+          "adi": "(Acıpayam) DİNÇ",
+          "adresi": "ASAGI MAH. ATATÜRK BULV. NO:19/A Acıpayam",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "5181542",
+          "ecz_id": "256",
+          "enlem": "37.4268265",
+          "boylam": "29.3488645"
+        },
+        {
+          "adi": "(Bekilli) SAĞLIK",
+          "adresi": "YENİ MAH. MİTHATPAŞA CAD. NO:21/A Bekilli",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "7912496",
+          "ecz_id": "283",
+          "enlem": "38.2291413",
+          "boylam": "29.4198"
+        },
+        {
+          "adi": "(Bozkurt) HAMBAT",
+          "adresi": "MAHMUDİYE MAH. ATATÜRK BULVARI NO:99/21 Bozkurt",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "8315062",
+          "ecz_id": "286",
+          "enlem": "37.8212682",
+          "boylam": "29.6060442"
+        },
+        {
+          "adi": "(Buldan) YAKIN",
+          "adresi": "KURTULUS MAH.AYDIN CAD.NO:12/B Buldan",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "4313305",
+          "ecz_id": "291",
+          "enlem": "38.04578",
+          "boylam": "28.82753"
+        },
+        {
+          "adi": "(Çal) GÜNDÜZ",
+          "adresi": "İSMAİLLER MAH. SAĞLIK CAD. NO:4 Çal",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "7513486",
+          "ecz_id": "299",
+          "enlem": "38.0830172",
+          "boylam": "29.3950902"
+        },
+        {
+          "adi": "(Çameli) ORAN",
+          "adresi": "YENI MAH. ATATÜRK BULVARI NO:2/A Çameli",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "5715199",
+          "ecz_id": "305",
+          "enlem": "37.0767723",
+          "boylam": "29.3492931"
+        },
+        {
+          "adi": "(Çardak) DAMLA",
+          "adresi": "HÜRRİYET MAH. ÇERKEZOĞLU SOK. NO:1/A Çardak",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "8511111",
+          "ecz_id": "309",
+          "enlem": "37.8235282",
+          "boylam": "29.6645593"
+        },
+        {
+          "adi": "(Çivril) AKDOĞAN",
+          "adresi": "ÇARSI MAH. UŞAK CAD. NO:16/B Çivril",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "7133001",
+          "ecz_id": "325",
+          "enlem": "38.3010102",
+          "boylam": "29.7379913"
+        },
+        {
+          "adi": "(Güney) SAĞLIK",
+          "adresi": "TİLKİLİK MAH. 6.SOK. NO:15/A Güney",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "4512137",
+          "ecz_id": "508",
+          "enlem": null,
+          "boylam": null
+        },
+        {
+          "adi": "(Honaz) HONAZ",
+          "adresi": "HÜRRİYET MAH. HÖYÜK CAD. NO:62  Honaz",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "8111115",
+          "ecz_id": "343",
+          "enlem": "37.7605582",
+          "boylam": "29.2650363"
+        },
+        {
+          "adi": "(Kale) ÖZDEL",
+          "adresi": "CEVHERPAŞA MAH. HASTANE CAD. NO:5 Z1 Kale",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "6713788",
+          "ecz_id": "469",
+          "enlem": "37.4400154",
+          "boylam": "28.8454037"
+        },
+        {
+          "adi": "(Sarayköy) SERİM",
+          "adresi": "CUMHURIYET MAHALLESI CUMHUTIYET CADDESI NO:4 Sarayköy",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "4151248",
+          "ecz_id": "357",
+          "enlem": "37.9274976",
+          "boylam": "28.9279052"
+        },
+        {
+          "adi": "(Serinhisar) BİLİM",
+          "adresi": "ASAĞI MAH.İSTİKLAL CAD. KOYUNLAR SOK. NO:2 Serinhisar",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "5913787",
+          "ecz_id": "368",
+          "enlem": "37.5805111",
+          "boylam": "29.2620438"
+        },
+        {
+          "adi": "(Tavas) ŞENGÜL AKALIN",
+          "adresi": "ORTA MAH. HÜKÜMET CAD. NO:34/H Tavas",
+          "ilcesi": null,
+          "ili": "Denizli",
+          "telefonu": "6134241",
+          "ecz_id": "384",
+          "enlem": "37.5715",
+          "boylam": "29.0670613"
+        }
+      ]
+    }
+  }
